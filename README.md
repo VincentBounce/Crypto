@@ -1,7 +1,7 @@
 # ⏳BTC timeline & price
 
 **1974 to 2008 Bitcoin prehistory** \
-2023-02-17 https://image.coinpedia.org/wp-content/uploads/2023/02/17162344/Bitcoin-Prehistory-1-2048x1024.png
+`2023-02-17` https://image.coinpedia.org/wp-content/uploads/2023/02/17162344/Bitcoin-Prehistory-1-2048x1024.png
 
 **Bitcoin price chart for the entire history from 2008/2010/2013 to now** \
 https://bytwork.com/en/articles/btc-chart-history \
@@ -13,6 +13,7 @@ https://www.statista.com/statistics/326707/bitcoin-price-index/
 ↘️local price bottom \
 🚀price surpassed last ATH \
 📣price reached a new power of 10 \
+⏳historical event \
 \
 `2008-10-31` Bitcoin white paper https://www.metzdowd.com/pipermail/cryptography/2008-October/014810.html \
 `2009-01-03` Bitcoin genesis block created by Satoshi Nakamoto | Ticker BC \
@@ -52,7 +53,7 @@ https://www.statista.com/statistics/326707/bitcoin-price-index/
 `2013-11-06` 🚀$265 \
 `2013-11-27` 📣$1k = 10^3 \
 `2013-11-30` ↗️$1242 | $1163 = 39×$29.6 \
-`2014-04-25` @WeUseCoins - What is Bitcoin (v2) https://youtu.be/Gc2en3nHxA4 \
+`2014-04-25` $441 ⏳@WeUseCoins - What is Bitcoin (v2) https://youtu.be/Gc2en3nHxA4 \
 `2014-04-11` $340 \
 `2015-01-14` ↘️$166 | $152 \
 `2015-08-18` ↘️$162 \
@@ -73,6 +74,6 @@ https://www.statista.com/statistics/326707/bitcoin-price-index/
 `2021-11-10` ↗️$69000 = 3.5×$19666 \
 `2022-11-21` ↘️$15479 FTX collapse \
 \
-`2024-01-10` US ETFs approved by the SEC \
+`2024-01-10` ⏳US ETFs approved by the SEC \
 `2024-03-05` 🚀$69156 \
 `2024-04-xx` ✂️4th halving
