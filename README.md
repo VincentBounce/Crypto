@@ -6,7 +6,7 @@
 **Bitcoin price chart for the entire history from 2008/2010/2013 to now** \
 https://bytwork.com/en/articles/btc-chart-history \
 https://www.investopedia.com/articles/forex/121815/bitcoins-price-history.asp \
-https://www.statista.com/statistics/326707/bitcoin-price-index/ \
+https://www.statista.com/statistics/326707/bitcoin-price-index/
 
 **Captions** \
 ↗️price new ATH \
@@ -75,4 +75,4 @@ https://www.statista.com/statistics/326707/bitcoin-price-index/ \
 \
 `2024-01-10` US ETFs approved by the SEC \
 `2024-03-05` 🚀$69156 \
-`2024-04-xx` ✂️4th halving \
+`2024-04-xx` ✂️4th halving
