@@ -13,7 +13,7 @@ https://www.statista.com/statistics/326707/bitcoin-price-index/
 ↘️local price bottom \
 🚀price surpassed last ATH \
 📣price reached a new power of 10 \
-⏳historical event \
+⏳historical video or event \
 \
 `2008-10-31` Bitcoin white paper https://www.metzdowd.com/pipermail/cryptography/2008-October/014810.html \
 `2009-01-03` Bitcoin genesis block created by Satoshi Nakamoto | Ticker BC \
