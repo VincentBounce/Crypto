@@ -1,19 +1,19 @@
 # ⏳BTC timeline & price
 
-**1974 to 2008 Bitcoin prehistory**
+**1974 to 2008 Bitcoin prehistory** \
 2023-02-17 https://image.coinpedia.org/wp-content/uploads/2023/02/17162344/Bitcoin-Prehistory-1-2048x1024.png
 
-**Bitcoin price chart for the entire history from 2008/2010/2013 to now**
-https://bytwork.com/en/articles/btc-chart-history
-https://www.investopedia.com/articles/forex/121815/bitcoins-price-history.asp
-https://www.statista.com/statistics/326707/bitcoin-price-index/
+**Bitcoin price chart for the entire history from 2008/2010/2013 to now** \
+https://bytwork.com/en/articles/btc-chart-history \
+https://www.investopedia.com/articles/forex/121815/bitcoins-price-history.asp \
+https://www.statista.com/statistics/326707/bitcoin-price-index/ \
 
 **Captions**
-↗️price new ATH
-↘️local price bottom
-🚀price surpassed last ATH
-📣price reached a new power of 10
-
+↗️price new ATH \
+↘️local price bottom \
+🚀price surpassed last ATH \
+📣price reached a new power of 10 \
+\
 `2008-10-31` Bitcoin white paper https://www.metzdowd.com/pipermail/cryptography/2008-October/014810.html \
 `2009-01-03` Bitcoin genesis block created by Satoshi Nakamoto | Ticker BC \
 `2009-01-11` ⏳ First Bitcoin tweet of history from Hal Finney https://x.com/halfin/status/1110302988 \
@@ -43,7 +43,7 @@ https://www.statista.com/statistics/326707/bitcoin-price-index/
 `2011-06-29` $15.73 ⏳ @Rocketboom - Bitcoins https://youtu.be/9LaSrxtWfgc \
 `2011-10-19` $2.04 \
 `2011-11-17` ↘️$1.99 | $4.7 \
- \
+\
 `2012-11-28` ✂️1st halving \
 `2013-02-19` 🚀$30 \
 `2013-04-01` 📣$100 = 10^2 \
@@ -56,7 +56,7 @@ https://www.statista.com/statistics/326707/bitcoin-price-index/
 `2014-04-11` $340 \
 `2015-01-14` ↘️$166 | $152 \
 `2015-08-18` ↘️$162 \
- \
+\
 `2016-07-09` ✂️2nd halving \
 `2016-09-xx` 🐂bull run: +13months -3months (max 5months+) \
 `2017-02-23` 🚀$1194 \
@@ -67,12 +67,12 @@ https://www.statista.com/statistics/326707/bitcoin-price-index/
 `2020-03-13` $3848 Covid19 \
 `2020-12-16` 🚀$21577 \
 `2021-04-14` $64800 \
- \
+\
 `2020-05-11` ✂️3rd halving \
 `2020-07-xx` 🐂bull run: +8months -1months (max 6months+) \
 `2021-11-10` ↗️$69000 = 3.5×$19666 \
 `2022-11-21` ↘️$15479 FTX collapse \
- \
+\
 `2024-01-10` US ETFs approved by the SEC \
 `2024-03-05` 🚀$69156 \
 `2024-04-xx` ✂️4th halving \
