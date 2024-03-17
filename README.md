@@ -14,8 +14,8 @@ https://www.statista.com/statistics/326707/bitcoin-price-index/
 🚀price surpassed last ATH
 📣price reached a new power of 10
 
-`2008-10-31` Bitcoin white paper https://www.metzdowd.com/pipermail/cryptography/2008-October/014810.html
-`2009-01-03` Bitcoin genesis block created by Satoshi Nakamoto | Ticker BC
+`2008-10-31` Bitcoin white paper https://www.metzdowd.com/pipermail/cryptography/2008-October/014810.html \newline
+`2009-01-03` Bitcoin genesis block created by Satoshi Nakamoto | Ticker BC \
 `2009-01-11` ⏳ First Bitcoin tweet of history from Hal Finney https://x.com/halfin/status/1110302988
 `2009-02-11` Bitcoin Core 0.1 https://p2pfoundation.ning.com/forum/topics/bitcoin-open-source
 `2009-xx-xx` $0.09
