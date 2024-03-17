@@ -19,15 +19,15 @@ https://www.statista.com/statistics/326707/bitcoin-price-index/
 `2009-01-03` Bitcoin genesis block created by Satoshi Nakamoto | Ticker BC \
 `2009-01-11` ⏳ First Bitcoin tweet of history from Hal Finney https://x.com/halfin/status/1110302988 \
 `2009-02-11` Bitcoin Core 0.1 https://p2pfoundation.ning.com/forum/topics/bitcoin-open-source \
-`2009-xx-xx` $0.09 \
-`2009-05-xx` $0.1 \
 `2010-02-05` @NewLibertyStandard suggests ฿ as currency symbol and BTC as ticker \
 `2010-02-24` 🟡@Satoshi posts a new Bitcoin logo ₿ inspired by $ on a golden coin \
 `2010-05-22` A pizza was sold for 10000BTC \
+`2010-06-10` 📣$0.01 = 10^-2 \
 `2010-07-03` $0.01 ⏳ ฿750 faucet | ฿5/visitor https://web.archive.org/web/20100703032414/http://freebitcoins.appspot.com/ \
-`2010-10-26` $0.2 \
+`2010-09-14` 📣$0.10 = 10^-1 \
+`2010-10-26` $0.20 \
 `2010-11-01` 🟠@bitboy posts a new Bitcoin logo oblique on orange background \
-`2010-11-06` $0.5 \
+`2010-11-06` $0.50 \
 `2010-11-21` $0.28 ⏳ @Bitcoin Poet - What is a Bitcoin https://youtu.be/AjnM2shYIrM \
 \
 `2011-01-01` $0.29 ⏳ @Michael Hendricks - Buy Bitcoins with PayPal (using CoinPal) https://youtu.be/YmPg4V-YE0k \
