@@ -8,7 +8,7 @@ https://bytwork.com/en/articles/btc-chart-history \
 https://www.investopedia.com/articles/forex/121815/bitcoins-price-history.asp \
 https://www.statista.com/statistics/326707/bitcoin-price-index/ \
 
-**Captions**
+**Captions** \
 ↗️price new ATH \
 ↘️local price bottom \
 🚀price surpassed last ATH \
