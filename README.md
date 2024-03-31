@@ -1,8 +1,5 @@
 # ⏳BTC timeline & price
 
-**1974 to 2008 Bitcoin prehistory** \
-`2023-02-17` https://image.coinpedia.org/wp-content/uploads/2023/02/17162344/Bitcoin-Prehistory-1-2048x1024.png
-
 **Bitcoin price chart for the entire history from 2008/2010/2013 to now** \
 https://bytwork.com/en/articles/btc-chart-history \
 https://www.investopedia.com/articles/forex/121815/bitcoins-price-history.asp \
@@ -14,6 +11,10 @@ https://www.statista.com/statistics/326707/bitcoin-price-index/
 🚀price surpassed last ATH \
 📣price reached a new power of 10 \
 ⏳historical video or event \
+
+## 1974 to 2008 Bitcoin Prehistory
+
+`2023-02-17` https://image.coinpedia.org/wp-content/uploads/2023/02/17162344/Bitcoin-Prehistory-1-2048x1024.png
 
 ## 2008 to 2010
 
@@ -86,6 +87,6 @@ https://www.statista.com/statistics/326707/bitcoin-price-index/
 `2024-01-10` ⏳US ETFs approved by the SEC \
 `2024-03-05` 🚀$69156 \
 
-## 2024+
+## 2024 to now
 
 `2024-04-xx` ✂️4th halving
