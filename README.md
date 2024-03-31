@@ -14,7 +14,7 @@ https://www.statista.com/statistics/326707/bitcoin-price-index/
 🚀price surpassed last ATH \
 📣price reached a new power of 10 \
 ⏳historical video or event \
-\
+
 ## 2008 to 2010
 
 `2008-10-31` Bitcoin white paper https://www.metzdowd.com/pipermail/cryptography/2008-October/014810.html \
