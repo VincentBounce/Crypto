@@ -36,7 +36,7 @@ https://www.statista.com/statistics/326707/bitcoin-price-index/
 `2011-02-09` ↗️$1.09 | ₿1=$1 \
 `2011-03-22` $0.74 ⏳ @WeUseCoins - What is Bitcoin (v1) https://youtu.be/Um63OQz3bjo \
 `2011-04-04` ↘️$0.56 \
-`2011-06-11` 📣$10 = 10^1 \
+`2011-06-11` 📣$10 = 10^1 | 129 days after $1 \
 `2011-06-08` ↗️$31.95 | $29.6 \
 `2011-06-19` $16.85 Price paused \
 `2011-06-20` [$0.01] ⏳ @BookofNick - Bitcoin Mt. Gox FLASH CRASH! $0.01 https://youtu.be/jrikj7fy4MU \
@@ -47,11 +47,11 @@ https://www.statista.com/statistics/326707/bitcoin-price-index/
 \
 `2012-11-28` ✂️1st halving \
 `2013-02-19` 🚀$30 \
-`2013-04-01` 📣$100 = 10^2 \
+`2013-04-01` 📣$100 = 10^2 | 660 days after $10 \
 `2013-04-10` ↗️$259 \
 `2013-04-12` ↘️$50 | $40 \
 `2013-11-06` 🚀$265 \
-`2013-11-27` 📣$1k = 10^3 \
+`2013-11-27` 📣$1k = 10^3 | 240 days after $100 \
 `2013-11-30` ↗️$1242 | $1163 = 39×$29.6 \
 `2014-04-25` $441 ⏳@WeUseCoins - What is Bitcoin (v2) https://youtu.be/Gc2en3nHxA4 \
 `2014-04-11` $340 \
@@ -61,7 +61,7 @@ https://www.statista.com/statistics/326707/bitcoin-price-index/
 `2016-07-09` ✂️2nd halving \
 `2016-09-xx` 🐂bull run: +13months -3months (max 5months+) \
 `2017-02-23` 🚀$1194 \
-`2017-11-29` 📣$10k = 10^4 \
+`2017-11-29` 📣$10k = 10^4 | 1463 days after $1k \
 `2017-12-17` ↗️$19666 = 17×$1163 \
 `2018-02-06` $5944 \
 `2018-12-15` ↘️$3122 \
